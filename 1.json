@@ -38,7 +38,7 @@
         ],
         "properties": {
             "creators": [{"address": "TreqPucAfLrNFBtnhHPg3B1sKmCpqm7qk8hUZ1Fc38c", "share": 100}],
-            "files": [{"uri": "1.png", "type": "image/png"}]
+            "files": [{"uri": "https://raw.githubusercontent.com/wfp2002/nftuploadcollection/main/1.png", "type": "image/png"}]
         },
         "collection": {"name": "Stranger NFThings", "family": "Season1"}
     }

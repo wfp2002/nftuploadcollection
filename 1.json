@@ -1,9 +1,9 @@
 {
         "name": "Stranger NFThings #2",
         "symbol": "STC",
-        "description": "Collection of 7500 Stranger NFThings Character. This is the number 2/7500.",
+        "description": "Collection of 3 Stranger NFThings Character. This is the number 2/7500.",
         "seller_fee_basis_points": 1500,
-        "image": "https://raw.githubusercontent.com/wfp2002/nftuploadcollection/main/1.png",
+        "image": "https://raw.githubusercontent.com/wfp2002/nftuploadcollection/main/2.png",
         "dna":"AUGUUCUUUUUCUUAUUGCUCUUCUUACUAUUGUUACUCUUGUUCCUCCUGUUGUUGCUCCUGCUUCUAUUCUUCUUCUUCUUCUUCUUCUUGUUCUUCUUCUUCUUCUUCUUCUUCUUCUUCUUCUUCUUCUUCUUCUUCUUCUUCUUCUUCUUCUUACAACACCAGGGGGGCGAAAGAGCCGCUAUCGACACACUAGCCGGAUUCUCUCUGCCUGAAAAGCUUCAAAACUUCUUCUUC",
         "BirthDate":1657646131,
         "Generation":0,
@@ -38,7 +38,7 @@
         ],
         "properties": {
             "creators": [{"address": "TreqPucAfLrNFBtnhHPg3B1sKmCpqm7qk8hUZ1Fc38c", "share": 100}],
-            "files": [{"uri": "https://raw.githubusercontent.com/wfp2002/nftuploadcollection/main/1.png", "type": "image/png"}]
+            "files": [{"uri": "1.png", "type": "image/png"}]
         },
         "collection": {"name": "Stranger NFThings", "family": "Season1"}
     }

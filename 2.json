@@ -8,7 +8,7 @@
         "BirthDate":1657646131,
         "Generation":0,
         "attributes": [
-            {"trait_type": "Background", "value": "Background2"},
+            {"trait_type": "Background", "value": "Background200"},
             {"trait_type": "Extra", "value": "Extra2"},
             {"trait_type": "ArmsExtra", "value": "ArmsExtra5"},
             {"trait_type": "Ears", "value": "Ears5"},
